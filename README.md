@@ -1,4 +1,6 @@
-# 41189-Weekly-Journal
+# 41189-Weekly-Journal 
+Week 2
+
 
 
 •	What have I learnt this week?
