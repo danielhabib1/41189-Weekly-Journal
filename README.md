@@ -91,3 +91,24 @@ Upon reflection and evaluation of my performance throughout this week, it has be
 •	What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 
 Looking back upon this week, the greatest challenge I have encountered is the basic understanding of python as a prerequisite for the subject. Specifically, my lack of knowledge in this area makes it difficult to comprehend various topics where python is used. Although Programming Fundamentals as provided insight into object-oriented programming, my knowledge is not yet sufficient enough to grasp content fully. Through self-evaluation, it is evident that I did not handle this challenge well, and will need to familiarise myself with python in future to assist not only with this subject, but many fundamental aspects of information systems. 
+
+
+Week 6:
+
+•	What have I learnt/Insights have I gained:
+
+Through reflecting upon the week 6 workshop, I have gained various new insights regarding the evolution of complex systems. The first notion which initiated my understanding was path dependence, in which the actions in a particular moment depend on its preceding moments. Ultimately, path dependence occurs through the choices of prior actions, and the potential outcomes is what is path dependant. Therefore, to test the changing action of a system an urn model is used to understand various path dependencies. To consolidate this understanding, the example of random walks was used whereby the aforementioned Markov Process highlights the real-world application of this concept which states the past movement of a stock cannot be used on the projection of future movement. 
+Further, I have gained insight into how the concavity and convexity of non-linear models can assist in forecasting the behaviour of complex systems.  
+ 
+The figure above gives insight into the conclusions that can be drawn from analysing the concavity of a slope. With reference to risk aversion, it can be seen that risk averse investors utility follows a slope which declines at both low and high return potential.
+Additionally, various nonlinear function has provided me with insight into the mathematical methods that can be applies to computing investment growth.
+  
+
+•	What are (my/the) perceived strengths and weaknesses that I have observed?
+
+Upon reflection, it became evident that my primary strengths and weaknesses were centred around the group assessment. Particularly, a personal weakness was my coherence when preparing for the task. As the group that I had been assigned with were all at different stages of content and preparation, this made it difficult to schedule group meeting and general communication. Personally, this can be attributed to my preference to work independently, specifically with assessed material. Therefore, at the initial stages of being assigned the task, a major weakness was my neglection of a team-based focus. The drawbacks of this approach was displayed in the first meeting, whereby we all had conflicting ideas which required compromise and elimination of ideas. However, my identification of this weakness prompted the realisation that in order to contribute effectively to this assessment, a readjustment to my approach was required. Consequently, my greatest strength within this week was to adapt my group-based views to become more cohesive and communicate my ideas rather than act independently. 
+
+•	What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+Within this week, the greatest focus was grounding a solid team dynamic that would carry through until the end of semester. However, the greatest challenge I observed was the lack of communication or preparation that members within the group carried. At stages, it became evident that only a few members within our team were motivated and eager to develop and systematic meeting schedule, whilst others did not participate within conversations. Within the early stages of the week, this did not raise heavy concern as timing wasn’t a major issue. However, as the week continued and the same problem was occurring it became evident that in order to heighten team coherence, active communication was a necessity. In response, a message was sent which addressed the flaws within our group and strategies that should be implemented to alleviate these issues. These included structured meeting times, a whole group focus and ice breakers to encourage familiarity between each other. 
+
