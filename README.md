@@ -98,8 +98,9 @@ Week 6:
 •	What have I learnt/Insights have I gained:
 
 Through reflecting upon the week 6 workshop, I have gained various new insights regarding the evolution of complex systems. The first notion which initiated my understanding was path dependence, in which the actions in a particular moment depend on its preceding moments. Ultimately, path dependence occurs through the choices of prior actions, and the potential outcomes is what is path dependant. Therefore, to test the changing action of a system an urn model is used to understand various path dependencies. To consolidate this understanding, the example of random walks was used whereby the aforementioned Markov Process highlights the real-world application of this concept which states the past movement of a stock cannot be used on the projection of future movement. 
-Further, I have gained insight into how the concavity and convexity of non-linear models can assist in forecasting the behaviour of complex systems.  
- 
+Further, I have gained insight into how the concavity and convexity of non-linear models can assist in forecasting the behaviour of complex systems. 
+
+
 The figure above gives insight into the conclusions that can be drawn from analysing the concavity of a slope. With reference to risk aversion, it can be seen that risk averse investors utility follows a slope which declines at both low and high return potential.
 Additionally, various nonlinear function has provided me with insight into the mathematical methods that can be applies to computing investment growth.
   
