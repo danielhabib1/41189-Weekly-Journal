@@ -143,3 +143,19 @@ In reflecting upon this week, I have been able to observe various strengths and 
 
 Being the week of submission, there was great pressure around finishing the report, as well as learning how to navigate both the Jupyter notebook and GitHub. As previously mentioned, it took a lot of time to properly familiarise myself with these platforms, and thus was the greatest challenge within this week. Having been extremely different from other platforms used for reports, numerous tutorials were required to help me make sense of the features required to carry out relevant functions. This challenge left less time of the report itself, as well as other tasks. Initially, this was a great challenge, however, as I became more familiar with the application’s capabilities, it became evident that it is extremely useful.
 
+
+Week 9
+
+•	What have I learnt/Insights have I gained:
+
+Within week 9 in the introduction to human-centred complex systems, the primary focus was to discuss the pre-submission with the group, as well as get started on the final report. Being given time to reflect upon the pre-submission, it became evident that although each member within the group understood the requirements of the assessment, changes and improvements needed to be our team dynamic. Within the week 9 workshop, the misunderstandings within our team were able to be cleared up by meeting with Juan. These questions were mainly concerned with using the programs and downloading the relevant extensions to ensure that out Jupyter notebook is formatted correctly. Therefore, I have learnt how to use these platforms on a greater level, as well as received assurance that despite uncertainties, our team was headed in the right direction. Additionally, I have gained insight into methods that can be applied to improve the final report from the pre-submission.
+
+•	What are (my/the) perceived strengths and weaknesses that I have observed?
+
+Upon reflecting on week 9, the strengths and weaknesses I have observed are concerned with improving the final report from the pre-submission report. A key strength that was displayed by each member of the group was the ability to come together and discuss the final report with Juan. This enabled us to receive an external advice that provided us with direction and structure for the coming weeks. However, a great weakness, which will continue if not addressed is the lack of knowledge in python code within the group. Specifically, as no team members have prior experience with this form of code, it will become difficult to effectively complete the parts of the final report that require python code. This will demand the use of research and tutorials to assist in this area.
+ 
+•	What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+Through reflection upon the challenges faced within this week, it became apparent that the delay between submitting the pre-submission and commencing the remainder of the final report. Particularly, upon submission, we all had a feeling of relief and completion which led to a neglection of the assessment. Therefore, the greatest challenge was building our motivation back. This was handled well by the team, as each of us realised after a few days that we need to get back into the assessment and regular communication. 
+
+
