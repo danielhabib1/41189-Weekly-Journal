@@ -159,3 +159,16 @@ Upon reflecting on week 9, the strengths and weaknesses I have observed are conc
 Through reflection upon the challenges faced within this week, it became apparent that the delay between submitting the pre-submission and commencing the remainder of the final report. Particularly, upon submission, we all had a feeling of relief and completion which led to a neglection of the assessment. Therefore, the greatest challenge was building our motivation back. This was handled well by the team, as each of us realised after a few days that we need to get back into the assessment and regular communication. 
 
 
+Week 10:
+
+•	What have I learnt/Insights have I gained:
+
+Through reflecting upon the week 10 workshop, it has been observed that the structure of this week’s class was similar to that of week 9. Ultimately, Juan provided a brief introduction and then divided us into breakout rooms. Within this period, my assessment group read the external comments made by peers within our class. Thus, we gained insight into the strengths and weaknesses of the pre-submission, which could then be adapted to the remainder of the report. Specifically, the positive comments about our report was the solid information and relevant evidence, as well as an effective choice of graphs and models to support our argument. However, the negative comments stated that at times, the writing of the report was too complex, which made it more difficult to read and follow. These additional insights about our report were extremely helpful in identifying our teams’ greatest strengths as well as weakness which required addressal. The comments made by both Juan and fellow peers has instilled a mindset within each of us which focuses on enhancing our strengths and improving our weaknesses in order to improve the succinctness of the final report.  
+
+•	What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+After analysing the feedback received, the greatest challenge was identifying individual aspects that require change. Upon reflection, it was apparent that many holistic changes needed to be made to enhance the group dynamic. However, when breaking down these changes into Individual adjustments for each member, difficulty arose. Consequently, the team devised a group strategy where the group would read each other’s parts and have the peer comments as a criterion. Subsequently we were able to identify specific changes that were required for specific people. This sought to be much more beneficial than self-evaluation as there was less bias.
+
+•	What are (my/the) perceived strengths and weaknesses that I have observed?
+
+Through analysing individual strengths and weaknesses throughout week 10, it became evident that group has effectively addressed all weaknesses. Specifically, within this week there were only team strengths. At this stage, we have all downloaded the extension for GitHub and learned how to navigate these platforms through an informative group call. Further, we are adhering to a regular call schedule where progress is discussed, and issues are being raised. Finally, we have gained a sense of familiarity with each other that allows for open communication and lack of hesitation when any questions or misunderstandings arise. 
