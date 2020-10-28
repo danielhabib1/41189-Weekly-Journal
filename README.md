@@ -188,3 +188,15 @@ After analysing the feedback received, the greatest challenge was identifying in
 •	What are (my/the) perceived strengths and weaknesses that I have observed?
 
 Through analysing individual strengths and weaknesses throughout week 10, it became evident that group has effectively addressed all weaknesses. Specifically, within this week there were only team strengths. At this stage, we have all downloaded the extension for GitHub and learned how to navigate these platforms through an informative group call. Further, we are adhering to a regular call schedule where progress is discussed, and issues are being raised. Finally, we have gained a sense of familiarity with each other that allows for open communication and lack of hesitation when any questions or misunderstandings arise. 
+
+
+Week 11:
+
+•	What have I learnt/Insights have I gained:
+
+Through reflecting upon week 11 in the introduction to human centre complex systems, it has been observed that there wasn’t any new content learnt within this week. Within this week, we were provided with another opportunity to work in our assessment groups on the final report. Additionally, we were informed that the assessment had been given a 2-week extension. This enable the group to better organise themselves and produce a report of higher quality.  Additionally, in reflecting upon this week, another notable aspect was Juan submitting his personal feedback upon the reports. This is exactly what was needed as it further provided a sense of direction and improvement, as there was now another source of corrective feedback which could be instilled into out work over the following few weeks.  
+
+•	What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+Within this week, it became evident that as a team, we have grown and progressed massively. As aforementioned in prior weeks, many challenges were faced with members in my assignment group, which raised great concerns. However, various factors such as Juan’s predominantly positive feedback and the coherent group dynamic on group calls made it apparent that the steps needed to form an effective group has been taken. The greatest challenged leading into the end of the semester is remaining persistent and ensuring that we maintain this team dynamic until the assessment is submitted.  However, a key concern is organising regular group calls around everyone’s busy schedules, particularly due to assignments, exams and other commitments.  
+
