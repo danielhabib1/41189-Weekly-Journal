@@ -1,4 +1,20 @@
-# 41189-Weekly-Journal 
+# 41189-Weekly-Journal
+
+Week 1
+
+•	What have I learnt this week?
+
+In reflecting upon the first week in the introduction to human-centred complex systems, I have been introduced to the concept of systems. Specifically, a system is characterised by a group of interacting entities. Thus, I have been provided with a framework that enables me to look at the world around me as a network of systems. In building on the notion of systems, I have also learnt about complex adaptive systems. Through the integration of a Ted Talk, workshop material and slides, the idea of reductionism allows me to now look at phenomena and deconstruct it in a manner which can identify relationships and behaviour. Finally, the idea of complex adaptive systems was described in a social world setting, where I learnt that many aspects of society carry the features of a complex adaptive system such as language, cities and financial systems. Ultimately, upon reflection I have learnt about the position of complex adaptive systems within society.
+
+•	What are (my/the) perceived strengths and weaknesses that I have observed?
+
+In looking back upon my first week in the introduction to human-centred complex systems, I have been able to observe various strengths and weaknesses. Particularly, my primary weaknesses that I have identified within myself is that I have come into the semester with a mindset that will assist with understanding the new concepts and frameworks this subject has to offer. Additionally, having taken the time to familiarise myself with UTS Canvas, I have earn tho to navigate the platform, which will be highly beneficial in coming weeks. However, my main weakness, particularly in this subject is the overwhelming feeling that comes when tacking large amounts of content. The greatest issue from this is finding it difficult to deconstruct and make sense of all the content.
+
+•	What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+As mentioned above, my greatest challenge in the first week in the introduction to human centred complex systems was being able to work my way through the large volume of content taught within the week. Specifically within the first week, numerous new concepts were introduced such as complex systems required me to put in extra effort to ensure I properly understood these topics. In order to overcome these challenges, it is crucial that I devise methods to deconstruct the content to be learnt in later weeks in a structured manner. 
+
+
 Week 2
 
 
